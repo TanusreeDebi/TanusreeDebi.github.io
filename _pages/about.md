@@ -17,7 +17,7 @@ Before joining UGA, I completed my M.S. in Computer Science at the University of
 </p>
 
 <p align="justify">
-My recent research explores the security and societal implications of AI systems. I am currently working on red-teaming agentic financial systems through prompt injection attacks on Google’s Agent Payments Protocol (AP2), investigating vulnerabilities in autonomous AI-driven transactions and designing safer, more trustworthy AI systems. I have also contributed to projects involving AI fairness auditing, HCI research, and human-centered AI systems for creative communities.
+My recent research explores the security and societal implications of AI systems. I am currently working on red-teaming agentic payment systems through prompt injection attacks on Google’s Agent Payments Protocol (AP2), investigating vulnerabilities in autonomous AI-driven transactions and designing safer, more trustworthy AI systems. I have also contributed to projects involving AI fairness auditing, HCI research, and human-centered AI systems for creative communities.
 </p>
 
 <p align="justify">
