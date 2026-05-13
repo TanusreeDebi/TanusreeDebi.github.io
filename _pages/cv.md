@@ -27,16 +27,17 @@ author_profile: true
 
 ## Research Interests
 
-- Human-Centered AI
-- AI Safety
-- Human-Computer Interaction
-- Social Computing
 - Agentic AI Security
+- AI Safety
+- Machine Learning
+- Human-Centered AI
+
+  
 
 ## Experience
 
 - Graduate Teaching Assistant, University of Georgia
-- Graduate Research Assistant, Socially Responsible Tech Lab
+- Graduate Research Assistant, Socially Responsible Tech Lab, University of Texas at Arlington
 - Lecturer, CUET
 
 
