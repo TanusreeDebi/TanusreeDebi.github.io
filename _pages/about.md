@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
 
-<h1 align="left">About Me</h1>
 
 <p align="justify">
 I am a second-year PhD student in Computer Science at the University of Georgia, conducting research in Human-Centered AI, AI safety, and intelligent systems. My research focuses on building trustworthy and responsible AI technologies, with interests spanning agentic AI security, machine learning, social computing, and human-centered system design.
