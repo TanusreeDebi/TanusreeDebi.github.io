@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Curriculum Vitae
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[Download My CV](/files/Tanusree_Debi_CV.pdf)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- PhD in Computer Science, University of Georgia (2025–Present)
+- M.S. in Computer Science, University of Texas at Arlington
+- B.Sc. in Computer Science & Engineering, CUET
+
+## Research Interests
+
+- Human-Centered AI
+- AI Safety
+- Human-Computer Interaction
+- Social Computing
+- Agentic AI Security
+
+## Experience
+
+- Graduate Teaching Assistant, University of Georgia
+- Graduate Research Assistant, Socially Responsible Tech Lab
+- Lecturer, CUET
+
+
