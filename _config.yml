@@ -25,12 +25,15 @@ author:
   # Biographic information
   avatar           : "bio-photo.jpg"
   name             : "Tanusree Debi"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "she/her"  
+  bio              : "PhD Student in Computer Science at the University of Georgia"
+  location         : "Athens, Georgia"
+  employer         : "University of Gerogia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tanusreedebi11@gmail.com" 
+  github         : "https://github.com/TanusreeDebi"
+  linkedin       : "https://www.linkedin.com/in/tanusree-debi/"
+  googlescholar  : "https://scholar.google.com/citations?user=c9T93gUAAAAJ&hl=en"
 
   # Academic websites
   academia         : # URL
