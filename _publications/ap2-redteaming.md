@@ -1,5 +1,5 @@
 ---
-title: "Whispers of Wealth: Red-Teaming Google’s Agent Payments Protocol (Submitted in IMNS 2026)"
+title: "Whispers of Wealth: Red-Teaming Google’s Agent Payments Protocol"
 collection: publications
 category: conferences
 permalink: /publication/ap2-redteaming
