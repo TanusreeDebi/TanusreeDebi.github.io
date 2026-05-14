@@ -15,3 +15,4 @@ Conducted semi-structured interviews with artists, researchers, and industry pra
 
 **Research Areas:**  
 Human–Computer Interaction, Human-Centered AI, Ethical AI, UX Research
+
