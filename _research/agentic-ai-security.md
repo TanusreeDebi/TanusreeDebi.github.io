@@ -1,7 +1,8 @@
 ---
 title: "Agentic AI Security and Red-Teaming of Financial Agents"
 excerpt: "Research on prompt injection attacks against autonomous financial systems and Google’s Agent Payments Protocol (AP2)."
-collection: portfolio
+collection: research
+permalink: /research/agentic-ai-security/
 ---
 
 ## Overview
