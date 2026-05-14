@@ -1,7 +1,7 @@
 ---
 title: "Out-of-Band Power Sensing Using EMI for Server-Level Monitoring in Data Centers"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/emi-power-monitoring
 excerpt: "Server-level power sensing using EMI-based out-of-band monitoring techniques for data centers."
 date: 2026-03-16
