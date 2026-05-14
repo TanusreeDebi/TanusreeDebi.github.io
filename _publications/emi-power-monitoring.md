@@ -10,4 +10,4 @@ citation: "Pranjol Sen Gupta, Zahidur Talukder, Tanusree Debi, et al. Out-of-Ban
 paperurl: "#"
 ---
 This work investigates out-of-band server-level power monitoring using electromagnetic interference (EMI)-based sensing techniques for data center environments.
-category: journals
+
